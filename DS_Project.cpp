@@ -1,5 +1,3 @@
-                         //Telephone Directory by group 8 //
-                         //assigned on 27-08-20, submitted on 17-12-20//
 #include <iostream>
 #include<fstream>
 #include<stdlib.h>
@@ -532,12 +530,6 @@ int main()
   
     getch();
 
-    return 0;
-    /*code written by enrollment numbers :00801012019,
-                                          01001012019,
-                                          04501012019,
-                                          04601012019,
-                                          04901012019 */
-                                                         
+    return 0;                                                         
 }
 
